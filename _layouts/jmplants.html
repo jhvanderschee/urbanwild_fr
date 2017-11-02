@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html>
+
+  {% include head.html %}
+
+  <body id="body" class="{{ page.layout }}" onload="">
+  <div id="nonsplash">
+    <div id="innernonsplash">
+
+	  {% include header.html %}
+<br />
+    <div class="light">
+      <div class="container">
+        <div class="row">
+            <div class="col-lg-6 col-md-6">
+                <div class="bigplant" style="background: white url('{{ page.first_image }}') center center no-repeat; background-size: cover;"></div>
+                {% for item in page.variants %}<div class="smallplant" style="background: white url('{{ item.image }}') center center no-repeat; background-size: contain;"></div>{% endfor %}
+            </div>
+            <div class="col-lg-6 col-md-6 text-left">
+                <div style="margin-left: -15px; width: 280px; position: relative;" class="hidden-xs hidden-sm"><div class="square"><div style="text-align: center;">
+                <h1 class="editable">MEET<br />THE GROWER</h1>
+                </div></div></div>
+
+                <h3 class="visible-xs visible-sm editable">Meet the grower</h3>
+                <div style="margin-top: 18px;" class="italic editable"><p>A grower at heart: Roland Meewisse</p><p>'Hello, I'm Roland Meewisse, the grower at JM Plants. Growing plants is in my blood. I probably got it from my father, who was also a grower. In fact, I took over his nursery. JM Plants lets me pursue my passion: growing large green plants and Nepenthes. You won't find a lot of ordinary plants here; they just don't excite us. We prefer varieties you can't find anywhere else. We go "wild" for them! Plants that require a lot of work and that come in lots of varieties. There's nothing better than brainstorming about the best growing conditions. Some varieties need special plant feed, while others need a special climate. That's what makes being a grower at JM Plants a fun challenge every day. I hope you enjoy our Urban Wild collection!'</p></div>
+
+            </div>
+          </div>
+      </div>
+    </div>
+
+    <br /><br />
+
+    <div class="light">
+      <div class="container">
+        <div class="row">
+            <div class="col-lg-6 col-md-6 floatright">
+                <div class="bigplant" style="background: white url('{{ page.second_image }}') center center no-repeat; background-size: cover;"></div>
+                {% for item in page.variants %}<div class="smallplant" style="background: white url('{{ item.image }}') center center no-repeat; background-size: contain;"></div>{% endfor %}
+            </div>
+            <div class="col-lg-6 col-md-6 text-right floatright">
+
+                <div style="margin-right: -15px; display: inline-block; width: 280px; position: relative;" class="hidden-xs hidden-sm"><div class="square"><div style="text-align: center;">
+                <img class="jmplantslogo" src="/img/jmplantslogo.svg" />
+                </div></div></div>
+                
+                <h3 class="visible-xs visible-sm editable">Kwekerij JM Plants</h3>
+                <div style="margin-top: 18px;" class="italic editable"><p>Growing plants calls for creativity. Growing plants calls for expertise. Above all, growing plants calls for passion. These are the characteristics of JM Plants. We have been cultivating green plants since 1976 and have developed a talent for discovering unique species and striking varieties. We are growers at heart with an eye for the environment.</p><p>JM Plants grows a wide variety of large, green plants. That alone proves that we're not interested in mass cultivation. We prefer growing more unique plants. We also grow small quantities of each species. All of the plants in our product range have their roots in the jungle – literally and figuratively. Our plants have character, quality, and are real eye-catchers in any room.</p><p>We are committed to growing as organically as possible, as it makes the plants stronger and healthier. To achieve this, we try to imitate nature as realistically as possible. This, combined with more room, helps us grow the largest, most beautiful, and highest quality plants.</p></div>
+
+            </div>
+        </div>
+      </div>
+    </div>
+
+    <br /><br />
+
+    <div class="light">
+      <div class="container">
+        <div class="row">
+            <div class="col-lg-6 col-md-6">
+                <div class="bigplant" style="background: white url('{{ page.third_image }}') center center no-repeat; background-size: cover;"></div>
+                {% for item in page.variants %}<div class="smallplant" style="background: white url('{{ item.image }}') center center no-repeat; background-size: contain;"></div>{% endfor %}
+            </div>
+            <div class="col-lg-6 col-md-6 text-left">
+                <div style="margin-left: -15px; width: 280px; position: relative;" class="hidden-xs hidden-sm"><div class="square"><div style="text-align: center;">
+                <h3 class="editable">ENVIRONMENTALLY<br />FRIENDLY<br />CULTIVATION</h3>
+                </div></div></div>
+
+                <h3 class="visible-xs visible-sm editable">Milieuvriendelijk telen</h3>
+                <div style="margin-top: 18px;" class="italic editable"><p>Cultivation starts with a good understanding of nature. Nature doesn't need chemical agents to fight diseases and pests. These days there are plenty of natural and biological alternatives. That is the growing philosophy at JM Plants.</p><p>We assume that every problem has a natural solution, most of which are perfectly capable of combating diseases and infestations. This philosophy helped us acquire the MPS-A quality seal, which is exclusively granted to nurseries that comply with strict environmental regulations.</p></div>
+
+            </div>
+          </div>
+      </div>
+    </div>
+
+    <br />
+
+    {% include footer.html %}
+      </div>
+    </div>
+  </body>
+
+</html>
