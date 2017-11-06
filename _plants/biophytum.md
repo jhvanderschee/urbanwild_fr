@@ -18,21 +18,13 @@ slider:
     button_text: Discover the collection!
     button_link: /collection
 description_html: >-
-  <p>Biophytum Sensitivum is also called the mini palm tree. 'Sensitivum' refers
-  to a very unique quality: the leaves are extremely sensitive and move at the
-  slightest touch! Don't worry if the leaves start to wilt slightly in the
-  evening &ndash; that's perfectly normal. The plant is known in Eastern
-  cultures for its medicinal properties.</p>
-origin: Brazil
+  <p>Le Biophytum Sensitivum est également appelé palmier miniature. « Sensitivum » renvoie à une caractéristique originale de la plante : effleurez les feuilles et vous les verrez bouger ! Ne vous inquiétez pas si celles-ci perdent de leur vigueur le soir venu : c'est tout à fait normal. Dans la culture orientale, la plante est appréciée pour ses vertus médicinales.</p>
+origin: Brésil
 variants:
   - title: SENSITIVUM
     image: /uploads/20151013759-Biophytum 9cm.jpg
     description_html: >-
-      <p>Biophytum Sensitivum is also called the mini palm tree. 'Sensitivum'
-      refers to a very unique quality: the leaves are extremely sensitive and
-      move at the slightest touch! Don't worry if the leaves start to wilt
-      slightly in the evening – that's perfectly normal. The plant is known in
-      Eastern cultures for its medicinal properties.</p>
+      <p>Le Biophytum Sensitivum est également appelé palmier miniature. « Sensitivum » renvoie à une caractéristique originale de la plante : effleurez les feuilles et vous les verrez bouger ! Ne vous inquiétez pas si celles-ci perdent de leur vigueur le soir venu : c'est tout à fait normal. Dans la culture orientale, la plante est appréciée pour ses vertus médicinales.</p>
 order: 1
 ---
 

@@ -18,77 +18,41 @@ slider:
     button_text: Discover the collection!
     button_link: /collection
 description_html: >-
-  <p>If the 'regular' Calathea is special, Calathea Bicajoux Gecko is
-  extraordinary. The stunning leaves on this plant have a painterly quality
-  about them and the pinkish flowers are equally beautiful. Did you know that
-  the flowers can last up to twenty weeks?</p><p>The Calathea is native to the
-  Amazon Rainforest in South America and grows on the forest floor, where
-  there's plenty of shade. It thrives in shady spots. This is a stunning and
-  decorative plant with variegated foliage.</p><p>What makes it even more unique
-  is that it 'whispers': the plant closes its leaves at night and opens them
-  again in the morning, which is sometimes accompanied by a rustling sound.
-  These plants are excellent air purifiers.</p>
-origin: South America
+  <p>Le Calathea « standard » est une plante spéciale mais le Calathea Bicajoux Gekko est tout simplement exceptionnel. Les feuilles de cette plante présentent des dessins époustouflants. Avec leur teinte rose, les fleurs sont tout aussi belles. Saviez-vous que vous pourrez profiter de ces fleurs pendant environ 20 semaines ?</p><p>Le Calathea est originaire de la forêt vierge de la région amazonienne en Amérique du Sud. Elle pousse dans les couches inférieures de la forêt, là où l'ombre est omniprésente. Chez vous, elle se plaît également à l'ombre. Plante dont les feuilles présentent des dessins et des formes magnifiques.</p><p>Autre originalité, la plante « murmure » : les feuilles s'ouvrent le matin dans un léger murmure avant de se refermer le soir. Plante réputée pour son action purificatrice sur l'air.</p>
+origin: Amérique du Sud
 variants:
   - title: Bicajoux Gekko
     image: /uploads/20151012294- Calathea Bicajoux Gekko- 1 cm.jpg
     description_html: >-
-      <p>If the 'regular' Calathea is special, Calathea Bicajoux Gecko is
-      extraordinary. The stunning leaves on this plant have a painterly quality
-      about them and the pinkish flowers are equally beautiful. Did you know
-      that the flowers can last up to twenty weeks?</p><p>The Calathea is native
-      to the Amazon Rainforest in South America and grows on the forest floor,
-      where there's plenty of shade. It thrives in shady spots. This is a
-      stunning and decorative plant with variegated foliage.</p><p>What makes it
-      even more unique is that it 'whispers': the plant closes its leaves at
-      night and opens them again in the morning, which is sometimes accompanied
-      by a rustling sound. These plants are excellent air purifiers.</p>
+      <p>Le Calathea « standard » est une plante spéciale mais le Calathea Bicajoux Gekko est tout simplement exceptionnel. Les feuilles de cette plante présentent des dessins époustouflants. Avec leur teinte rose, les fleurs sont tout aussi belles. Saviez-vous que vous pourrez profiter de ces fleurs pendant environ 20 semaines ?</p><p>Le Calathea est originaire de la forêt vierge de la région amazonienne en Amérique du Sud. Elle pousse dans les couches inférieures de la forêt, là où l'ombre est omniprésente. Chez vous, elle se plaît également à l'ombre. Plante dont les feuilles présentent des dessins et des formes magnifiques.</p><p>Autre originalité, la plante « murmure » : les feuilles s'ouvrent le matin dans un léger murmure avant de se refermer le soir. Plante réputée pour son action purificatrice sur l'air.</p>
   - title: Warscewiczii
     image: /uploads/20151012491 Calathea- Warscewiczii.jpg
     description_html: >-
-      <p>Calathea Warscewiczii may have the trickiest name of them all, but it's
-      also one of the most unusual plants. The leaves are extremely soft, almost
-      velvety. This plant is nicknamed the 'peacock plant' because of the
-      decorative purple colour on the underside of the leaves and the emerald
-      colour on top.</p>
+      <p>Ce Calathea Warscewiczii est peut-être affublé d'un nom alambiqué mais c'est aussi une plante très spéciale. Ses feuilles sont douces, d'aucuns disent douces comme la soie. Et ce n'est pas un hasard si cette plante a été surnommée la « plante paon » : une jolie teinte violette orne la face inférieure de ses somptueuses feuilles qui sont vert foncé en surface.</p>
   - title: Rufibarba
     image: /uploads/20151012530-Calathea Rufibarba.jpg
     description_html: >-
-      <p>What makes Calathea Rufibarba so beautiful is its long, wavy leaves.
-      They range in colour from light green to grey-green on top and deep red on
-      the bottom.</p>
+      <p>Très original, ce Calathea Rufibarba présente de longues feuilles étroites aux bords ondulés. Leur coloration est uniforme, entre vert clair et gris-vert sur le dessus, rouge foncé sur le dessous.</p>
   - title: Stromanthe Sanguinea Triostar
     image: /uploads/20151012521-Calathea Stromanthe sanguinea Triostar.jpg
     description_html: >-
-      <p>'Triostar' was named after its tri-coloured leaves in playful patterns.
-      With pink, white, and green leaves, this Calathea is entirely unique.
-      Artificial light gives this plant a lovely pink glow.</p>
+      <p>Ce Calathea n'est pas surnommé « Triostar » par hasard : les feuilles tricolores de cette espèce décrivent des formes originales. Elles oscillent entre le rose, le blanc et le vert, ce qui donne à ce Calathea un look en constante évolution. La lumière artificielle permet de créer un joli reflet rose.</p>
   - title: Orbifolia
     image: /uploads/calathea-orbifolia.jpg
     description_html: >-
-      <p>Calathea Orbifolia has distinct leaves that are broad and round, with
-      large, blotchy veins. Every plant seems to have a slightly different
-      colour pattern!</p>
+      <p>Le Calathea Orbifolia se reconnaît à ses feuilles particulières : larges et rondes avec des nervures qui présentent de grandes taches originales. Chaque plante semble se décliner sur des nuances différentes !</p>
   - title: Insigne
     image: /uploads/calathea-insigne.jpg
     description_html: >-
-      <p>Were those spots a mistake by Mother Nature? Not at all! The striking
-      pattern is what makes Calathea Insigne so unique! The underside of the
-      leaf is a fresh green colour with dark green spots.</p>
+      <p>Ces taches sur les feuilles seraient-elles des erreurs de la nature ? Pas du tout, c'est justement ce qui fait tout le charme du Calathea Insigne ! Le dessous de la feuille est quant à lui vert clair avec des taches sombres.</p>
   - title: Makoyana
     image: /uploads/calathea--makoyana.jpg
     description_html: >-
-      <p>Makoyana is one of the most striking Calatheas, with silver-green to
-      olive green leaves that fade to a reddish colour. If you look closely
-      you'll see dark green lines on either side of the midrib. The underside of
-      the leaf is also worth a closer look. It is silvery white with reddish
-      purple spots.</p>
+      <p>Un des plus beaux Calatheas qui soient, avec ses feuilles presque rondes qui oscillent entre le vert-argent et le vert-olive. Les plus observateurs remarqueront les lignes vert foncé de chaque côté de la nervure centrale. Le dessous des feuilles vaut également le détour : une surface blanc-argent parsemée de taches rouges et violettes.</p>
   - title: Sanderiana Ornata
     image: /uploads/calathea-sanderiana-ornata.jpg
     description_html: >-
-      <p>A real eye-catcher in any room, Calathea Sanderiana Ornata has round,
-      broad leaves and wide spotted veins. The white veins against a neutral
-      green background make this Calathea particularly striking.</p>
+      <p>La star de votre intérieur : le Calathea Sanderiana Ornata avec ses magnifiques grandes feuilles rondes aux nervures tachetées. Les nervures blanches de cette espèce ressortent d'autant plus sur la surface verte et neutre des feuilles.</p>
 order: 1
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: home
 slider:
-  - title: LES MAISONS EN SONT FOLLES!
+  - title: LES MAISONS EN SONT FOLLES !
     image: /img/sliderhome-jmplants-1.jpg
     text_color: light
     button_text: Découvrez la collection
@@ -11,7 +11,7 @@ slider:
     text_color: dark
     button_text: Découvrez ce que les plantes ont à vous offrir
     button_link: '/#purification-de-l-air'
-  - title: Créez votre propre jungle!
+  - title: Créez votre propre jungle !
     image: /img/slider_monstera.jpg
     text_color: light
     button_text: Découvrez les conseils d'entretien

@@ -10,7 +10,7 @@
 
 	  {% include header.html %}
 
-    <div class="container italic"><div class="row"><div class="col-xs-12"><a href="/collection" class="backlink">• Back</a></div></div></div>
+    <div class="container italic"><div class="row"><div class="col-xs-12"><a href="/collection" class="backlink">• Retourner</a></div></div></div>
     <div class="light">
       <div class="container">
         <div class="row">
@@ -28,10 +28,10 @@
                   • {{ page.title }}<br />
                   <div id="descriptions">{% for item in page.variants %}<span class="description">{{ item.description_html }}</span>{% endfor %}</div><br />
                   <br />
-                  • Country of origin<br />
+                  • Pays d'origine<br />
                   <img src="/img/globe.svg" class="care_icon" style="width: 55px; margin-right: 5px; cursor: default;" /><span style="position: relative; top: 4px;">{{ page.origin }}</span><br />
                   <br />
-                  • Care<br />
+                  • Entretien<br />
                   <img src="/img/brightness.svg" class="care_icon" style="width: 55px;" title="Brightness" onclick="window.location.href='/entretien';" />
                   <img src="/img/temperature.svg" class="care_icon" style="width: 48px;" title="Temperature" onclick="window.location.href='/entretien';" />
                   <img src="/img/water.svg" class="care_icon" style="width: 65px;" title="Water" onclick="window.location.href='/entretien';" />
