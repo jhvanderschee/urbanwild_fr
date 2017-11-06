@@ -1,7 +1,7 @@
 ---
-title: Repotting
-caption: in time
+title: Rempoter
+caption: à temps
 image: /img/brightness.svg
 ---
 
-A growing plant will have to be repotted at some point in order to keep growing. Repotting your plants in time will give the roots the oxygen they need.
+Une plante qui pousse doit être rempotée dans un plus grand pot pour continuer à se développer. Il faut donc rempoter la plante à temps pour laisser de la place aux racines.
