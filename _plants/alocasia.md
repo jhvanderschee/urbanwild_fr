@@ -2,20 +2,20 @@
 title: ALOCASIA
 image: /uploads/20151012609-Alocasia Cucullata.jpg
 slider:
-  - title: Purifying plants for healthy living
+  - title: Des plantes qui purifient l'air et créent un environnement sain
     image: /uploads/slide-Alocasia-Wentii.jpg
     text_color: dark
-    button_text: Discover what plants can do for you
-    button_link: '/#airpurifying'
-  - title: Keep your jungle wild !
+    button_text: Découvrez ce que les plantes ont à vous offrir
+    button_link: '/#purification-de-l-air'
+  - title: Créez votre propre jungle !
     image: /uploads/slide-Philodendron-Xanadu.jpg
     text_color: dark
-    button_text: See our care tips
-    button_link: /care
-  - title: Homes go wild for it !
+    button_text: Découvrez les conseils d'entretien
+    button_link: /entretien
+  - title: LES MAISONS EN SONT FOLLES !
     image: /uploads/sliderhome-jmplants-1.jpg
     text_color: light
-    button_text: Discover the collection!
+    button_text: Découvrez la collection
     button_link: /collection
 description_html: >-
   <p>« Alocasia », ça ne vous dit rien ? C'est l'appellation latine d'une plante plante plus connue sous le nom « Oreille d'éléphant ». Et on comprend tout de suite pourquoi : ses immenses feuilles ressemblent aux oreilles du pachyderme. C'est une plante magnifique à condition que vous ayez de la place pour l'exposer.</p><p>La forme des feuilles de l'Alocasia Wentii évoque des oreilles d'éléphant. La plante attire immédiatement le regard avec ses immenses feuilles vert foncé. Et pour cause ! N'oubliez pas que l'Alocasia est une plante originaire de la forêt tropicale et qu'elle a donc besoin de beaucoup d'eau. Vous pourrez par ailleurs en profiter longtemps car elle est très facile à entretenir.</p>

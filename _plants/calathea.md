@@ -2,20 +2,20 @@
 title: CALATHEA
 image: /uploads/20151012491 Calathea- Warscewiczii.jpg
 slider:
-  - title: Purifying plants for healthy living
+  - title: Des plantes qui purifient l'air et créent un environnement sain
     image: /uploads/slide-Alocasia-Wentii.jpg
     text_color: dark
-    button_text: Discover what plants can do for you
-    button_link: '/#airpurifying'
-  - title: Keep your jungle wild!
+    button_text: Découvrez ce que les plantes ont à vous offrir
+    button_link: '/#purification-de-l-air'
+  - title: Créez votre propre jungle !
     image: /uploads/slide-Philodendron-Xanadu.jpg
     text_color: dark
-    button_text: See our care tips
-    button_link: /care
-  - title: Homes go wild for it!
+    button_text: Découvrez les conseils d'entretien
+    button_link: /entretien
+  - title: LES MAISONS EN SONT FOLLES !
     image: /uploads/sliderhome-jmplants-1.jpg
     text_color: light
-    button_text: Discover the collection!
+    button_text: Découvrez la collection
     button_link: /collection
 description_html: >-
   <p>Le Calathea « standard » est une plante spéciale mais le Calathea Bicajoux Gekko est tout simplement exceptionnel. Les feuilles de cette plante présentent des dessins époustouflants. Avec leur teinte rose, les fleurs sont tout aussi belles. Saviez-vous que vous pourrez profiter de ces fleurs pendant environ 20 semaines ?</p><p>Le Calathea est originaire de la forêt vierge de la région amazonienne en Amérique du Sud. Elle pousse dans les couches inférieures de la forêt, là où l'ombre est omniprésente. Chez vous, elle se plaît également à l'ombre. Plante dont les feuilles présentent des dessins et des formes magnifiques.</p><p>Autre originalité, la plante « murmure » : les feuilles s'ouvrent le matin dans un léger murmure avant de se refermer le soir. Plante réputée pour son action purificatrice sur l'air.</p>
