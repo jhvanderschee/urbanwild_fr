@@ -16,6 +16,7 @@ collections:
     output: true
     permalink: collection/:title
 
+url: http://urban-wild.fr
 title: Urban Wild
 permalink: /:title
 
