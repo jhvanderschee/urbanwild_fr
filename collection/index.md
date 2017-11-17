@@ -2,21 +2,21 @@
 title: Collection
 layout: collectie
 slider:
-  - title: Who doesn’t want this beauty?
+  - title: Qui oserait dire non à cette beauté ?
     image: /uploads/slide-Monstera.jpg
-    text_color: light
-    button_text: View our monstrously beautiful collection.
+    text_color: '#000000'
+    button_text: Découvrez notre collection monstrueusement belle.
     button_link: /collection
-  - title: Our collection
+  - title: Notre collection
     image: /uploads/slide-collectie-jmplants-2.jpg
-    text_color: dark
-    button_text: View our Alocasia's
+    text_color: '#000000'
+    button_text: Admirez nos Alocasias
     button_link: /collection/alocasia
-  - title: Purifying plants for healthy living
+  - title: Des plantes qui purifient l'air et créent un environnement sain
     image: /uploads/slide-Philodendron-Xanadu.jpg
-    text_color: dark
-    button_text: Discover what plants can do for you
-    button_link: '/#airpurifying'
+    text_color: '#000000'
+    button_text: Découvrez ce que les plantes ont à vous offrir
+    button_link: '/#airpurification'
 ---
 
 
